@@ -1,4 +1,4 @@
-# WGAN-with-gradient-penalty# 🎨 Conditional GAN with WGAN-GP for Sketch-to-Image Generation
+# WGAN-with-gradient-penalty Conditional GAN with WGAN-GP for Sketch-to-Image Generation
 
 ## 👨‍💻 Contributors
 
