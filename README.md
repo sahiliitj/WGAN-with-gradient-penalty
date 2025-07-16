@@ -5,7 +5,7 @@
 - **Sahil**  
 - **Aman Kanshotia** 
 - **Sougata Moi** 
-**Program:** M.Tech & M.Sc — Data and Computational Sciences
+- **Program:** M.Tech & M.Sc — Data and Computational Sciences
 
 ---
 
